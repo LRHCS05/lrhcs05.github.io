@@ -1,0 +1,50 @@
+* {
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.title {
+  color: red;
+  margin: auto;
+  width: 50%;
+}
+body {
+  background-color: black;
+}
+
+.pics {
+  height: auto;
+}
+
+table,
+th,
+td {
+  border: solid 1px white;
+}
+
+table {
+  width: 100%;
+}
+button {
+  background-color: rgb(112, 112, 112);
+  border-radius: 5px;
+  font-size: larger;
+  margin: 10px;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#Forehead {
+  margin: auto;
+  width: 20%;
+  padding-top: 500px;
+}
+
+#FULL {
+  margin: auto;
+  width: 20%;
+  padding-top: 2000px;
+}
